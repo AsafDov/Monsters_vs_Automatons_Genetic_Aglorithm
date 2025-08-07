@@ -12,7 +12,6 @@ The automatons that successfully evade the monsters are deemed the "fittest." Th
 
 This project is a strong example of applying machine learning principles to a physical simulation, demonstrating a solid understanding of evolutionary computation and object-oriented design.
 
------
 
 ## 🛠️ Technologies Used
 
@@ -21,7 +20,6 @@ This project is a strong example of applying machine learning principles to a ph
   * **HTML5:** Provides the canvas where the simulation is rendered.
   * **CSS3:** Used for any styling of the user interface.
 
------
 
 ## 🚀 Live Demo
 Click the image to give it a try
@@ -30,8 +28,6 @@ Click the image to give it a try
 
 More about it on my website at [Asaf's Laboratory](https://asafslaboratory.com/?p=194)
 
-
------
 
 ## 🙏 Acknowledgments
 
